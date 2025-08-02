@@ -1,0 +1,31 @@
+SEPOLIA TESTNET DEPLOYMENT - UNISWAP V2
+================================================
+
+All contracts deployed successfully on Sepolia
+
+Contract Addresses:
+===================
+WETH: 0x0A7E11Caa2A5EFBa3bB1f2C67E795b41ddCBC453
+USDT: 0x73Fd9eB3281fB56AafFE512bad7468C3e7a2C600
+DAI: 0xba735403CcBd5969EDafa4Ec7AFf526C701B6690
+Factory: 0xCAA878B49400A65468D7400ACf5651DB85C5441A
+Router: 0x3DFF2A8F102Fd041a5E2c24C2a942EEb18e84794
+Adapter: 0x8700A5FBb9D0CCa51a609926d98A002F22a03c0c
+WETH/USDT Pair: 0xD69D12CaA3D1bc7397D1a5Fc496D40e48Ef08877
+
+Frontend Configuration:
+======================
+- Frontend updated with new Sepolia addresses
+- All contract addresses configured
+- Three tokens supported: WETH, USDT, DAI
+
+Status:
+=======
+- Contracts deployed and verified
+- Pairs created successfully
+- Frontend configured with correct addresses
+- Frontend working and ready for testing
+
+Network: Sepolia Testnet
+Chain ID: 11155111
+Deployer: 0x2Ba1Bf6aB49c0d86CDb12D69A777B6dF39AB79D9

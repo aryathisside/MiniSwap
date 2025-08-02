@@ -4,7 +4,7 @@ A full-featured decentralized exchange (DEX) built on Uniswap V2 protocol with a
 
 ## 🌐 Live Project
 
-**🔗 [Live Demo]()** https://mini-swap-v2.vercel.app/
+**🔗 [Live Demo](https://mini-swap-v2.vercel.app/)**
 
 Experience the live trading platform with real-time token swaps and liquidity provision on Sepolia testnet.
 

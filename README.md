@@ -4,7 +4,7 @@ A full-featured decentralized exchange (DEX) built on Uniswap V2 protocol with a
 
 ## 🌐 Live Project
 
-**🔗 [Live Demo]()** *(Add your website link here when deployed)*
+**🔗 [Live Demo]()** https://mini-swap-v2.vercel.app/
 
 Experience the live trading platform with real-time token swaps and liquidity provision on Sepolia testnet.
 
@@ -38,7 +38,7 @@ Follow these steps to set up and test the complete project:
 ### 1. Clone and Install
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/aryathisside/MiniSwap.git>
 cd uniSwap
 
 # Install dependencies
